@@ -5,7 +5,7 @@ This is my relic ducat valuer that more or less reads the relic reward names fro
 screen and shows the ducat value for those parts.
 
 ## Disclaimer
-This Android Application is a non-prfit fan creation.
+This Android Application is a non-profit fan creation.
 This app is free and all rights of ownership goes to Digital Extreme (DE) and the developers of the video game "Warframe".
 
 It uses google OCR Api.
